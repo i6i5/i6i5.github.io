@@ -11,7 +11,7 @@
 
 Fix interference with monitormode
 ```bash
-airmon-ng check kill
+sudo airmon-ng check kill
 ```
 
 Set interface down
